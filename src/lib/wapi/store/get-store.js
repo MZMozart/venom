@@ -1,107 +1,303 @@
-/*
-NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mMMMMMMMMMNNNmmNNNMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mmNMMNMMMMNNNNNmmmddhdddNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mddNMMNy:/odNmmddmmNNmdhhddmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmmdNMNd:--+dNmmddhhddmmhsyhhmdmmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmNmdNmy:.-oyNmmmhmdhho+sososyhhhddNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmmNdh+-`.:oyNNdmmdmmdo-://oysssyhhhdmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-Nmmmoyyyo+osdNmdmmddNNhs+/::/+osyssydyhdNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NNmhsymMMNmmmmdmdNNddNmsso+++////ossssyyhdmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mhhhmNNMNNNhssshhmmddmmssyooooso/::+oysshhhhmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mmdhdddNNdyoosyhdmddmmmsoooooyysyys/::/oyyhhhyMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mdddhddmhsooshdmdmdhhyyyysso/ooo+syhhs/-/+shyhMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-dyyhdmd+ososhdmdmyyhhhhhhhyo++o/+///+ohhso++sdMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-dhdmNNdsossyhmdmsydhssssyhhs/++o/o+//:++yhhy+/hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mdmNNNNmhysshddyshdyyy/oss+s::/:://++///++++/::hmNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NNMNNNmmNNdymNNhshdshdyhdysh+sy+-:++osssosss++yNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmNNNmdNNmNmmmNmyyddyyhdhydyohys/-oo+osssysyyohNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mmNNNhdNmmNNmNMMNhyyhhhdhyyhmmyh+-/s+sysssyyhyydNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mNMMMhdNdmMNMMMMMNNmdhdddmhdmmNho/-osoyyo++oyddhhNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NMMMNmhNdNMNMNMMNmNNNmmmdyoohmhoyo::hsooo++oooydhymMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMNNNhmNNMmmNMNNmmmmdmmdyhhoyddddoo++yoyysooossyhsmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMNNNmmNNNmdNdNmmddhhhdNNhsmNssdooo/dso++osyyysoymMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMNNNNmNNNNNmddmmNhshNmmmNmNMdhNsh/ohho++/:++MMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MNNNMMNNNNmmmhhhhdyosdNmdmMMhoNmhdmys+ooo++/+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mmNNNMMNNNNmddmdoodmMMNmmNNhssdmNMMMNdNd/osomMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmNdhMNmNNMNmdNddohmMMNNNmdmdddNMMMMMMMMmMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmNhmMmmmmNNmdNyoNMNmNmdhyyyhdhoyNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmdmMmmddddNmmdys+hmMMMmmhysssyy++dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmdNMMdmdddmmNNyshmNNNNNNNdhhs+yy//dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmNMMMdmdddmmMNysdmNNMMMNhhNdhs+y+/:mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mmNMMNhmmddNNNMdyydmMMMNdyshNhyoss+:/MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmNMMddmmmmNMNMNdsymNNmdhhdNMNdhsss+:yMMMMMMMMMMMMMMMMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMdhmmmmmNMNNMmshNMMMmmMMMMMmNdyo+//NMMMMMMMMMMMMMMMhNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMmhmmmmmmNMMNNMyshdhhhyhNMMMMMMdhso+sMMMMMMMMMMMMMMMhmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMmdmmmmmmmNMMMmNm+ys++oyyNMMMMMMNmmyyoyNMMMMMMMMMMMMMddMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmmmmmmmmmmmNMNNmNNyyo+/oohNMMMMMMMMdhhsshmMMMMMMMMMMMyNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mmNNNNNNmmmmNMMNmmddNmmdhhdmMMMMMMMMMNddhssshmmNNNmmdhdMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NNNNNNNNNNNNNNNNmNNNNMMMMMNomMMMMMMMMMNNmdhhyyyyyyyhdmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-Nd+oNMMMMMMMmodo++++++++++m..yNMMMMMNo+mNMMmhssshdNMMNhNMMMMMMMMMMMddMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MN+ /NMMMMMm: d` -ssssss+`d. `+mMMMMN. dNm+:+syso//hNN--yNMMMMMMMd+`yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMN+ /NMMMm: oM` +NMMMMMNdN. /`.yNMMN. dh.omMMMMMNy.oM- `:hNMMMm+.  yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMN/ /NMm: oNy` :sssmMMMMN. dh-`/mMN. d-/NMMMMMMMMy`m- y/`/dmo..o: yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMN/ /m: +NNy. /yyyNMMMMN. dNNo`.yN- d.oNMMMMMMMMd d- mNh-`.`+mN/ yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMN/ . +NMMN- oNMMMMMNdN. dMMMd:`/. ds.dNMMMMMMm::M- dMMNy/dMMN/ yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMN/ +NMMMN- /yyyyyys d. dMMMMNo`  dNy-+ymmmho-+NN- dMMMMMMMMN/ yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMNyNMMMMN+::::::::::m+/mMMMMMMd: dMMNho///+ymMMN+/mMMMMMMMMNs/hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMNsmMMMMMMMMMMMMMMNNNNMMNNNMMNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMNMMNMNMMMNMMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMNMNMMMNMMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNMMNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-*/
+/* eslint-disable prettier/prettier */
 const { storeObjects } = require('./store-objects');
 export async function getStore(modules) {
   let foundCount = 0;
-  let neededObjects = storeObjects;
+  const neededObjects = storeObjects;
   for (let idx in modules) {
     if (typeof modules[idx] === 'object' && modules[idx] !== null) {
       neededObjects.forEach((needObj) => {
         if (!needObj.conditions || needObj.foundedModule) return;
+        // console.log(needObj.id);
         let neededModule = needObj.conditions(modules[idx]);
         if (neededModule !== null) {
           foundCount++;
           needObj.foundedModule = neededModule;
+          console.log(neededModule);
         }
       });
-      if (foundCount == neededObjects.length) {
+      if (foundCount === neededObjects.length) {
         break;
       }
     }
   }
 
-  let neededStore = neededObjects.find((needObj) => needObj.id === 'Store');
-  window.Store = neededStore.foundedModule ? neededStore.foundedModule : {};
-  neededObjects.splice(neededObjects.indexOf(neededStore), 1);
-
   neededObjects.forEach((needObj) => {
     if (needObj.foundedModule) {
-      window.Store[needObj.id] = needObj.foundedModule;
+      if (needObj.id !== "module") {
+        window.Store[needObj.id] = needObj.foundedModule;
+        console.log(needObj.id);
+        console.log(needObj.foundedModule);
+      }
     }
   });
 
-  window.Store.sendMessage = function (e) {
-    return window.Store.SendTextMsgToChat(this, ...arguments);
-  };
-  window.Store.Chat.modelClass.prototype.sendMessage = function (e) {
-    window.Store.SendTextMsgToChat(this, ...arguments);
-  };
+  const module = (neededObjects.filter((e) => e.id === 'module'))[0].foundedModule;
+  Object.keys(module).forEach((key) => {
+    if (![
+      'Chat',
+    ].includes(key)) {
+      if (window.Store[key]) {
+        window.Store[key + '_'] = module[key];
+      } else {
+        window.Store[key] = module[key];
+      }
+    }
+  });
 
-  if(!window.Store.Chat._find) {
-    window.Store.Chat._find = e => {
-        const target = window.Store.Chat.get(e);
-        return target ? Promise.resolve(target) : Promise.resolve({
-            id: e
-        });
-    };
-}
-
-  if (window.Store.MediaCollection)
+  if (window.Store.MediaCollection) {
     window.Store.MediaCollection.prototype.processFiles =
       window.Store.MediaCollection.prototype.processFiles ||
       window.Store.MediaCollection.prototype.processAttachments;
-      
-  return window.Store;
+  }
+
+  window.mR = async (find) => {
+    return new Promise((resolve) => {
+      if (window.__debug) {
+        for (let idx in window.getModuleList()) {
+          if (typeof modules[idx] === "object" && modules[idx] !== null) {
+            let module = modules[idx];
+
+            var evet = module[find] ? module : null;
+            if (evet) {
+              window[find] = evet;
+              return resolve(window[find]);
+            }
+          }
+        }
+      } else {
+        const parasite = `parasite${Date.now()}`;
+        window["webpackChunkwhatsapp_web_client"].push([
+          [parasite],
+          {},
+          function (o) {
+            let modules = [];
+            for (let idx in o.m) {
+              modules.push(o(idx));
+            }
+
+            for (let idx in modules) {
+              if (typeof modules[idx] === "object" && modules[idx] !== null) {
+                let module = modules[idx];
+
+                var evet = module[find] ? module : null;
+                if (evet) {
+                  window[find] = evet;
+                  return resolve(window[find]);
+                }
+              }
+            }
+
+          },
+        ]);
+      }
+
+    });
+  }
+
+  window.injectToFunction = (selector, callback) => {
+    (async () => {
+      const Nr = await window.mR(selector);
+      const oldFunct = Nr[selector];
+      //console.log(selector, oldFunct);
+      Nr[selector] = (...args) => callback(oldFunct, args);
+    })();
+  };
+
+  window.injectToFunction('createMsgProtobuf', (func, args) => {
+    const proto = func(...args);
+    const [message] = args;
+
+    if (proto.listMessage) {
+      proto.viewOnceMessage = {
+        message: {
+          listMessage: proto.listMessage
+        }
+      };
+      delete proto.listMessage;
+    }
+
+    if (proto.buttonsMessage) {
+      proto.viewOnceMessage = {
+        message: {
+          buttonsMessage: proto.buttonsMessage,
+        },
+      };
+      delete proto.buttonsMessage;
+    }
+
+    if (proto.templateMessage) {
+      proto.viewOnceMessage = {
+        message: {
+          templateMessage: proto.templateMessage,
+        },
+      };
+      delete proto.templateMessage;
+    }
+
+    if (message.hydratedButtons) {
+      const hydratedTemplate = {
+        hydratedButtons: message.hydratedButtons,
+      };
+
+      if (message.footer) {
+        hydratedTemplate.hydratedFooterText = message.footer;
+      }
+
+      if (message.caption) {
+        hydratedTemplate.hydratedContentText = message.caption;
+      }
+
+      if (message.title) {
+        hydratedTemplate.hydratedTitleText = message.title;
+      }
+
+      if (proto.conversation) {
+        hydratedTemplate.hydratedContentText = proto.conversation;
+        delete proto.conversation;
+      } else if (proto.extendedTextMessage?.text) {
+        hydratedTemplate.hydratedContentText = proto.extendedTextMessage.text;
+        delete proto.extendedTextMessage;
+      } else {
+        // Search media part in message
+        let found;
+        const mediaPart = [
+          'documentMessage',
+          'imageMessage',
+          'locationMessage',
+          'videoMessage',
+        ];
+        for (const part of mediaPart) {
+          if (part in proto) {
+            found = part;
+            break;
+          }
+        }
+
+        if (!found) {
+          return proto;
+        }
+
+        // Media message doesn't allow title
+        hydratedTemplate[found] = proto[found];
+
+        // Copy title to caption if not setted
+        if (
+          hydratedTemplate.hydratedTitleText &&
+          !hydratedTemplate.hydratedContentText
+        ) {
+          hydratedTemplate.hydratedContentText =
+            hydratedTemplate.hydratedTitleText;
+        }
+
+        // Remove title for media messages
+        delete hydratedTemplate.hydratedTitleText;
+
+        if (found === 'locationMessage') {
+          if (
+            !hydratedTemplate.hydratedContentText &&
+            (proto[found].name || proto[found].address)
+          ) {
+            hydratedTemplate.hydratedContentText =
+              proto[found].name && proto[found].address
+                ? `${proto[found].name}\n${proto[found].address}`
+                : proto[found].name || proto[found].address || '';
+          }
+        }
+
+        // Ensure a content text;
+        hydratedTemplate.hydratedContentText =
+          hydratedTemplate.hydratedContentText || ' ';
+
+        delete proto[found];
+      }
+
+      proto.templateMessage = {
+        hydratedTemplate,
+      };
+    }
+
+    return proto;
+  });
+
+  window.injectToFunction('mediaTypeFromProtobuf', (func, ...args) => {
+    const [proto] = args;
+    if (proto.viewOnceMessage?.message.templateMessage.hydratedTemplate) {
+      return func(proto.viewOnceMessage?.message.templateMessage.hydratedTemplate);
+    }
+    return func(...args);
+  });
+
+  window.injectToFunction('typeAttributeFromProtobuf', (func, args) => {
+    const [proto] = args;
+    console.log(`proto`, proto);
+
+    if (proto.viewOnceMessage?.message.listMessage) {
+      return 'text';
+    }
+
+    if (proto.imageMessage || proto.audioMessage) {
+      return 'text';
+    }
+
+    if (
+      proto.viewOnceMessage?.message?.buttonsMessage?.headerType === 1 ||
+      proto.viewOnceMessage?.message?.buttonsMessage?.headerType === 2
+    ) {
+      return 'text';
+    }
+
+    if (proto.viewOnceMessage?.message.templateMessage.hydratedTemplate) {
+      return 'text';
+    }
+
+    return 'text';
+  });
+
+  window.injectToFunction('createFanoutMsgStanza', async (func, args) => {
+    const [, proto] = args;
+
+    let buttonNode = null;
+
+    if (proto.viewOnceMessage?.message.listMessage) {
+      const listType = proto.viewOnceMessage?.message.listMessage?.listType || 0;
+
+      const types = ['unknown', 'single_select', 'product_list'];
+
+      buttonNode = Store.Websocket.smax('list', {
+        v: '2',
+        type: types[listType],
+      });
+    }
+
+    const node = await func(...args);
+
+    if (!buttonNode) {
+      return node;
+    }
+
+    const content = node.content;
+
+    let bizNode = content.find((c) => c.tag === 'biz');
+
+    if (!bizNode) {
+      bizNode = Store.Websocket.smax('biz', {}, null);
+      content.push(bizNode);
+    }
+
+    let hasButtonNode = false;
+
+    if (Array.isArray(bizNode.content)) {
+      hasButtonNode = !!bizNode.content.find((c) => c.tag === buttonNode?.tag);
+    } else {
+      bizNode.content = [];
+    }
+
+
+    if (!hasButtonNode) {
+      bizNode.content.push(buttonNode);
+    }
+
+    return node;
+  });
 }
+

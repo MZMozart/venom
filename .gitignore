@@ -10,9 +10,14 @@ app2.js
 assets
 dist.zip
 dist/
+dist*
 gohan.jpg
 node_modules
 session
 session-*
 src/app.ts
 tokens
+chrome
+.env
+package-lock.json
+yarn.lock

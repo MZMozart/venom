@@ -1,60 +1,7 @@
-/*
-NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mMMMMMMMMMNNNmmNNNMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mmNMMNMMMMNNNNNmmmddhdddNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mddNMMNy:/odNmmddmmNNmdhhddmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmmdNMNd:--+dNmmddhhddmmhsyhhmdmmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmNmdNmy:.-oyNmmmhmdhho+sososyhhhddNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmmNdh+-`.:oyNNdmmdmmdo-://oysssyhhhdmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-Nmmmoyyyo+osdNmdmmddNNhs+/::/+osyssydyhdNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NNmhsymMMNmmmmdmdNNddNmsso+++////ossssyyhdmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mhhhmNNMNNNhssshhmmddmmssyooooso/::+oysshhhhmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mmdhdddNNdyoosyhdmddmmmsoooooyysyys/::/oyyhhhyMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mdddhddmhsooshdmdmdhhyyyysso/ooo+syhhs/-/+shyhMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-dyyhdmd+ososhdmdmyyhhhhhhhyo++o/+///+ohhso++sdMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-dhdmNNdsossyhmdmsydhssssyhhs/++o/o+//:++yhhy+/hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mdmNNNNmhysshddyshdyyy/oss+s::/:://++///++++/::hmNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NNMNNNmmNNdymNNhshdshdyhdysh+sy+-:++osssosss++yNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmNNNmdNNmNmmmNmyyddyyhdhydyohys/-oo+osssysyyohNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mmNNNhdNmmNNmNMMNhyyhhhdhyyhmmyh+-/s+sysssyyhyydNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mNMMMhdNdmMNMMMMMNNmdhdddmhdmmNho/-osoyyo++oyddhhNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NMMMNmhNdNMNMNMMNmNNNmmmdyoohmhoyo::hsooo++oooydhymMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMNNNhmNNMmmNMNNmmmmdmmdyhhoyddddoo++yoyysooossyhsmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMNNNmmNNNmdNdNmmddhhhdNNhsmNssdooo/dso++osyyysoymMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMNNNNmNNNNNmddmmNhshNmmmNmNMdhNsh/ohho++/:++MMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MNNNMMNNNNmmmhhhhdyosdNmdmMMhoNmhdmys+ooo++/+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mmNNNMMNNNNmddmdoodmMMNmmNNhssdmNMMMNdNd/osomMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmNdhMNmNNMNmdNddohmMMNNNmdmdddNMMMMMMMMmMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmNhmMmmmmNNmdNyoNMNmNmdhyyyhdhoyNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmdmMmmddddNmmdys+hmMMMmmhysssyy++dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmdNMMdmdddmmNNyshmNNNNNNNdhhs+yy//dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmNMMMdmdddmmMNysdmNNMMMNhhNdhs+y+/:mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mmNMMNhmmddNNNMdyydmMMMNdyshNhyoss+:/MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmNMMddmmmmNMNMNdsymNNmdhhdNMNdhsss+:yMMMMMMMMMMMMMMMMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMdhmmmmmNMNNMmshNMMMmmMMMMMmNdyo+//NMMMMMMMMMMMMMMMhNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMmhmmmmmmNMMNNMyshdhhhyhNMMMMMMdhso+sMMMMMMMMMMMMMMMhmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMmdmmmmmmmNMMMmNm+ys++oyyNMMMMMMNmmyyoyNMMMMMMMMMMMMMddMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NmmmmmmmmmmmNMNNmNNyyo+/oohNMMMMMMMMdhhsshmMMMMMMMMMMMyNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-mmNNNNNNmmmmNMMNmmddNmmdhhdmMMMMMMMMMNddhssshmmNNNmmdhdMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-NNNNNNNNNNNNNNNNmNNNNMMMMMNomMMMMMMMMMNNmdhhyyyyyyyhdmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-Nd+oNMMMMMMMmodo++++++++++m..yNMMMMMNo+mNMMmhssshdNMMNhNMMMMMMMMMMMddMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MN+ /NMMMMMm: d` -ssssss+`d. `+mMMMMN. dNm+:+syso//hNN--yNMMMMMMMd+`yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMN+ /NMMMm: oM` +NMMMMMNdN. /`.yNMMN. dh.omMMMMMNy.oM- `:hNMMMm+.  yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMN/ /NMm: oNy` :sssmMMMMN. dh-`/mMN. d-/NMMMMMMMMy`m- y/`/dmo..o: yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMN/ /m: +NNy. /yyyNMMMMN. dNNo`.yN- d.oNMMMMMMMMd d- mNh-`.`+mN/ yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMN/ . +NMMN- oNMMMMMNdN. dMMMd:`/. ds.dNMMMMMMm::M- dMMNy/dMMN/ yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMN/ +NMMMN- /yyyyyys d. dMMMMNo`  dNy-+ymmmho-+NN- dMMMMMMMMN/ yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMNyNMMMMN+::::::::::m+/mMMMMMMd: dMMNho///+ymMMN+/mMMMMMMMMNs/hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMNsmMMMMMMMMMMMMMMNNNNMMNNNMMNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMNMMNMNMMMNMMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMNMNMMMNMMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNMMNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-*/
-export function scope(id, erro, status, text = null) {
+export async function scope(id, erro, status, text = null) {
+  const me = await WAPI.getHost();
   let e = {
-    me: Store.Me.attributes,
+    me: me,
     to: id,
     erro: erro,
     text: text,
@@ -62,26 +9,33 @@ export function scope(id, erro, status, text = null) {
   };
   return e;
 }
+
 export async function getchatId(chatId) {
-  var to = await WAPI.getChatById(chatId);
-  if (to) {
-    var objTo = to.lastReceivedKey,
-      extend = {
-        formattedName: to.contact.formattedName,
-        isBusiness: to.contact.isBusiness,
-        isMyContact: to.contact.isMyContact,
-        verifiedName: to.contact.verifiedName,
-        pushname: to.contact.pushname,
-        isOnline: to.isOnline
-      };
-    Object.assign(objTo, extend);
-    return objTo;
-  } else {
-    return undefined;
+  if (chatId) {
+    let to = await WAPI.getChatById(chatId);
+    if (to && typeof to === 'object') {
+      let objTo = to.lastReceivedKey;
+      if (objTo && typeof objTo === 'object') {
+        let extend = {
+          formattedName: to.contact.formattedName,
+          isBusiness: to.contact.isBusiness,
+          isMyContact: to.contact.isMyContact,
+          verifiedName: to.contact.verifiedName,
+          pushname: to.contact.pushname,
+          isOnline: to.isOnline
+        };
+        Object.assign(objTo, extend);
+        return objTo;
+      }
+    }
   }
+  return undefined;
 }
 
-export async function sendExist(chatId, returnChat = true, Send = true) {
+export function sendCheckType(chatId = undefined) {
+  if (!chatId) {
+    return WAPI.scope(chatId, true, 404, 'It is necessary to pass a number!');
+  }
   if (typeof chatId === 'string') {
     const contact = '@c.us';
     const broadcast = '@broadcast';
@@ -113,9 +67,9 @@ export async function sendExist(chatId, returnChat = true, Send = true) {
 
     if (
       broadcast === chatId.substr(-broadcast.length, broadcast.length) &&
-      ((chatId.match(/(@broadcast)/g) &&
-        chatId.match(/(@broadcast)/g).length > 1) ||
-        !chatId.match(/^(\d+(\d)*@broadcast)$/g))
+      (chatId.match(/(@broadcast)/g).length > 1 ||
+        (!chatId.match(/^(\d+(\d)*@broadcast)$/g) &&
+          !chatId.match(/^(status@broadcast)$/g)))
     ) {
       return WAPI.scope(
         chatId,
@@ -128,31 +82,128 @@ export async function sendExist(chatId, returnChat = true, Send = true) {
     if (
       grup === chatId.substr(-grup.length, grup.length) &&
       ((chatId.match(/(@g.us)/g) && chatId.match(/(@g.us)/g).length > 1) ||
-        !chatId.match(/^\d+(-)+(\d)*@g.us$/g))
+        !chatId.match(/^(\d+(-)+(\d)|\d+(\d))*@g.us$/g))
     ) {
       return WAPI.scope(
         chatId,
         true,
         404,
-        'incorrect parameters! Use as an example: 00000000-000000@g.us'
+        'incorrect parameters! Use as an example: 00000000-000000@g.us or 00000000000000@g.us'
       );
     }
   }
+}
 
-  let ck = await window.WAPI.checkNumberStatus(chatId),
-    chat = await window.WAPI.getChat(ck.id._serialized);
+export async function returnChat(chatId, returnChat = true, Send = true) {
+  const checkType = WAPI.sendCheckType(chatId);
+  if (!!checkType && checkType.status === 404) {
+    return checkType;
+  }
 
-  if (ck.numberExists && chat === undefined) {
-    var idUser = new window.Store.UserConstructor(chatId, {
+  let chat = await WAPI.getChat(chatId);
+  if (!chat) {
+    var idUser = new Store.UserConstructor(chatId, {
       intentionallyUsePrivateConstructor: true
     });
+    const chatWid = new Store.WidFactory.createWid(chatId);
+    await Store.Chat.add(
+      {
+        createdLocally: true,
+        id: chatWid
+      },
+      {
+        merge: true
+      }
+    );
+    chat = await Store.Chat.find(idUser);
+  }
+
+  if (chat === undefined) {
+    const chatWid = new Store.WidFactory.createWid(chatId);
+    await Store.Chat.add(
+      {
+        createdLocally: true,
+        id: chatWid
+      },
+      {
+        merge: true
+      }
+    );
+    const storeChat = await Store.Chat.find(chatId);
+    if (storeChat) {
+      chat =
+        storeChat && storeChat.id && storeChat.id._serialized
+          ? await WAPI.getChat(storeChat.id._serialized)
+          : undefined;
+    }
+  }
+
+  if (!chat) {
+    return WAPI.scope(chatId, true, 404);
+  }
+
+  if (Send) {
+    await window.Store.ReadSeen.sendSeen(chat, false);
+  }
+
+  if (returnChat) {
+    return chat;
+  }
+
+  return WAPI.scope(chatId, false, 200);
+}
+
+export async function sendExist(chatId, returnChat = true, Send = true) {
+  const checkType = await WAPI.sendCheckType(chatId);
+  if (!!checkType && checkType.status === 404) {
+    return checkType;
+  }
+
+  let ck = await window.WAPI.checkNumberStatus(chatId, false);
+
+  if (
+    (ck.status === 404 &&
+      !chatId.includes('@g.us') &&
+      !chatId.includes('@broadcast')) ||
+    (ck &&
+      ck.text &&
+      typeof ck.text.includes === 'function' &&
+      ck.text.includes('XmppParsingFailure'))
+  ) {
+    return WAPI.scope(chatId, true, ck.status, 'The number does not exist');
+  }
+
+  const chatWid = new Store.WidFactory.createWid(chatId);
+
+  let chat =
+    ck && ck.id && ck.id._serialized
+      ? await WAPI.getChat(ck.id._serialized)
+      : undefined;
+
+  if (ck.numberExists && chat === undefined) {
+    var idUser = new Store.UserConstructor(chatId, {
+      intentionallyUsePrivateConstructor: true
+    });
+    const chatWid = new Store.WidFactory.createWid(chatId);
+    await Store.Chat.add(
+      {
+        createdLocally: true,
+        id: chatWid
+      },
+      {
+        merge: true
+      }
+    );
     chat = await Store.Chat.find(idUser);
   }
 
   if (!chat) {
-    const storeChat = await window.Store.Chat.find(chatId);
+    const storeChat = await Store.Chat.find(chatWid);
     if (storeChat) {
-      chat = await window.WAPI.getChat(storeChat.id._serialized);
+      chat =
+        storeChat && storeChat.id && storeChat.id._serialized
+          ? await WAPI.getChat(storeChat.id._serialized)
+          : undefined;
     }
   }
 
@@ -169,7 +220,13 @@ export async function sendExist(chatId, returnChat = true, Send = true) {
     );
   }
 
-  if (!ck.numberExists && !chat.t && chat.isBroadcast) {
+  if (
+    !ck.numberExists &&
+    !chat.t &&
+    chat.id &&
+    chat.id.user != 'status' &&
+    chat.isBroadcast
+  ) {
     return WAPI.scope(
       chatId,
       true,
@@ -179,16 +236,16 @@ export async function sendExist(chatId, returnChat = true, Send = true) {
   }
 
   if (!chat) {
-    return WAPI.scope(ck.id._serialized, true, 404);
+    return WAPI.scope(chatId, true, 404);
   }
 
   if (Send) {
-    await window.Store.SendSeen(chat, false);
+    await window.Store.ReadSeen.sendSeen(chat, false);
   }
 
   if (returnChat) {
     return chat;
   }
 
-  return WAPI.scope(ck.id._serialized, false, 200);
+  return WAPI.scope(chatId, false, 200);
 }
